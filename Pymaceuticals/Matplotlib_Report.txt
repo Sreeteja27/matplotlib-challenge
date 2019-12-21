@@ -1,0 +1,14 @@
+						Matplotlib Homework
+Three Observable Trends
+
+1.Effect of Mortality from the figure Survival during treatment:
+In the group of mice receiving Capomulin, 21 of 25 mice survived (84%) vs 11 of 25 mice receiving placebo (45.8%).
+
+2.Effect on Tumor size from the figure Tumor response to the treatment and the Mean tumor change over 45 days trial:
+Mice treated with Capomulin experienced a reduction in tumor size over the trial period, with tumor volume decreasing an average of 19.48% by end of the trial. 
+
+3.Effect on Metastasis from the figure Metastatic spread during treatment:
+The average number of metastatic sites on mice receiving Capomulin was 1.5, vs 3.3 metastatic sites for mice receiving the placebo. 
+
+Conclusions: Capomulin decreases mortality in mice with tumors, slows spread of tumor metastasis and reduces tumor size.
+
